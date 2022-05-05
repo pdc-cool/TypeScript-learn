@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3d29c9db4c2c5e3e",
+        "id": "433c1131af2fa9ea",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "todos/2022-05-04.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,12 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "todos/2022-05-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -91,23 +96,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 431
   },
-  "active": "3d29c9db4c2c5e3e",
+  "active": "433c1131af2fa9ea",
   "lastOpenFiles": [
+    "todos/2022-05-04.md",
+    "todos/2022-05-02.md",
+    "todos/2022-05-03.md",
+    "todos/2022/2022-05-02.md",
+    "todos/2022/2022-05-03.md",
+    "todos/2022/05/2022-05-03.md",
+    "todos/2022/05/2022-05-02.md",
     "README.md",
-    "todos/2022/05/05-03.md",
-    "todos/2022/05/05-02.md",
     "aliases , 2022.md",
-    "[2022-05-01.md",
-    "second.md",
-    "ssasaas.md",
-    "todos/Untitled Kanban.md",
-    "Untitled.md",
-    "todos/sczxc.md"
+    "[2022-05-01.md"
   ]
 }
